@@ -49,7 +49,7 @@ Here's a quick reference guide to the precompiled wrappers. These are all availa
 | `my_input.read_percentage()` | Reads the value then converts it to a percentage value. |
 
 #### Potentiometer
-Subclasses from [Analog Input](#### Analog Input)
+Subclasses from [Analog Input](https://github.com/ConnectEd-Code/pycon-wrappers#analog-input)
 
 | Method | Description |
 | :---: | :--- |
